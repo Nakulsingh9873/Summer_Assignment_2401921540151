@@ -1,4 +1,4 @@
-//121. Best Time to Buy and Sell Stock
+// Best Time to Buy and Sell Stock
 #include <iostream>
 #include <vector>
 using namespace std;
